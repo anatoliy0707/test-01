@@ -7,6 +7,8 @@ const capitalize = (text) => {
     return `${firstSymbol}${restSubstring}`;
   };
 
+  
+
  export default capitalize;
 
   
